@@ -1,1 +1,1 @@
-from src.config.configuration import main
+from src.mlProject.config.configuration import main
